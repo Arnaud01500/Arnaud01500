@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Cover](https://github.com/Arnaud01500/Arnaud01500/blob/main/img/arnaud.jpg)
+![Cover](https://github.com/Arnaud01500/Arnaud01500/main/img/Arnaud.jpg)
 <!--
 **Arnaud01500/Arnaud01500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
